@@ -1,0 +1,3 @@
+[submodule "onnx-simplifier"]
+	path = onnx-simplifier
+	url = https://github.com/daquexian/onnx-simplifier.git
